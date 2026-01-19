@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="uspinGrad" x1="10" y1="10" x2="54" y2="54" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2CF291"></stop>
+      <stop offset="1" stop-color="#5AF8AD"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="#0B1F3B"></rect>
+
+  <!-- Stylized "U" -->
+  <path d="M20 18v20c0 9 5.6 16 12 16s12-7 12-16V18" fill="none" stroke="url(#uspinGrad)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <!-- Small dot accent (like .ME) -->
+  <circle cx="49.5" cy="49.5" r="3.3" fill="url(#uspinGrad)"></circle>
+</svg>

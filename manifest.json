@@ -1,0 +1,19 @@
+{
+  "name": "Uspin",
+  "short_name": "Uspin",
+  "theme_color": "",
+  "background_color": "#0F643B",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768808175-zagruzka.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
