@@ -1,5 +1,5 @@
 {
-    "en-UK": {
+    "en-GB": {
         "styles": {
             "bg": "#0F643B",
             "lang-select-color": "#222829",
@@ -217,7 +217,7 @@
     },
     "langs": [
         {
-            "code": "en-UK",
+            "code": "en-GB",
             "name": "Английский",
             "isDefault": true
         }

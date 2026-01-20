@@ -5,10 +5,10 @@
           <loc>https://uspin-online.com</loc>
 
             <xhtml:link rel="alternate" hreflang="x-default" href="https://uspin-online.com" />
-            <xhtml:link rel="alternate" hreflang="EN-UK" href="https://uspin-online.com" />
+            <xhtml:link rel="alternate" hreflang="EN-GB" href="https://uspin-online.com" />
 
 
-        <lastmod>2026-01-19T12:18:57.354Z</lastmod>
+        <lastmod>2026-01-20T08:33:53.322Z</lastmod>
         <changefreq>yearly</changefreq>
         <priority>1.0</priority>
       </url>
